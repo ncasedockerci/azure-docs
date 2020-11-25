@@ -18,7 +18,7 @@
         "C++",
         "CSS",
         "DAX Power BI",
-        "Diff",
+        //"Diff",
         "Dockerfile",
         "DOS",
         "F#",
@@ -37,8 +37,8 @@
         "MS Graph (Interactive)",
         "Objective C",
         "PHP",
-        "Plaintext no highlight",
-        "PostgreSQL & PL/pgSQL",
+      //  "Plaintext no highlight",
+        //"PostgreSQL & PL/pgSQL",
         "PowerShell",
         "PowerShell (Interactive)",
         "Properties",
@@ -47,11 +47,11 @@
         "Razor CSHTML",
         "Ruby",
         "Scala",
-        "Shell",
+       // "Shell",
         "Solidity",
         "SQL",
         "Swift",
-        "Terraform (HCL)",
+     //   "Terraform (HCL)",
         "TypeScript",
         "VB.NET",
         "XAML",
@@ -59,9 +59,14 @@
         "YAML"
     ],
     "cSpell.words": [
+        "acrolinx",
         "auditd",
         "covid",
+        "docsmsft",
         "onboarded"
     ],
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "markdown.allAvailableLanguages": true,
+    "markdown.metadataNag": true,
+    "markdown.showToolbar": true
 }
