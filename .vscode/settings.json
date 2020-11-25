@@ -59,11 +59,19 @@
         "YAML"
     ],
     "cSpell.words": [
+        "Kubernetes",
+        "RDMA",
         "acrolinx",
+        "amlcompute",
         "auditd",
+        "autoscale",
+        "autoscales",
         "covid",
         "docsmsft",
-        "onboarded"
+        "onboarded",
+        "sdgilley",
+        "sgilley",
+        "subservice"
     ],
     "git.ignoreLimitWarning": true,
     "markdown.allAvailableLanguages": true,

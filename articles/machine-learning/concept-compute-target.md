@@ -8,7 +8,7 @@ ms.subservice: core
 ms.topic: conceptual
 ms.author: sgilley
 author: sdgilley
-ms.date: 09/29/2020
+ms.date: 11/25/2020
 # As a data scientist, I want to understand what a compute target is and why I need it.
 ---
 
@@ -137,9 +137,9 @@ The current isolated VM offerings include:
 
 To learn more about isolation, see [Isolation in the Azure public cloud](../security/fundamentals/isolation-choices.md).
 
-## Unmanaged compute
+## Unmanned compute
 
-An unmanaged compute target is *not* managed by Azure Machine Learning. You create this type of compute target outside Azure Machine Learning and then attach it to your workspace. Unmanaged compute resources can require additional steps for you to maintain or to improve performance for machine learning workloads.
+An unmanned compute target is *not* managed by Azure Machine Learning. You create this type of compute target outside Azure Machine Learning and then attach it to your workspace. Unmanned compute resources can require additional steps for you to maintain or to improve performance for machine learning workloads.
 
 ## Next steps
 
